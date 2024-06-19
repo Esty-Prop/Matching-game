@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a10b43f8e5c9e0e4eb1dda12825556c0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Noto Sans Hebrew
+  fontNames:
+  - Noto Sans Hebrew
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 31b396d177d9cb54d8a8db8b4d3497ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
